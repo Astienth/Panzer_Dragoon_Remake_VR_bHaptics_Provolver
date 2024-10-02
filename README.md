@@ -20,7 +20,7 @@ Dteyn: https://discord.gg/Qt7GT69Pzx </br>
 
 # <b>Installation</b></br>
 
-1) Download the zip file from [https://github.com/Astienth/DriftWood_VR_bHaptics/releases/download/1.0/Drifwood_VRMod_bHaptics.zip](https://github.com/Astienth/DriftWood_VR_bHaptics/releases/download/1.0/Drifwood_VRMod_bHaptics.zip)</br>
+1) Download the zip file from [https://github.com/Astienth/Panzer_Dragoon_Remake_VR_bHaptics_Provolver/releases/download/1.0/PanzerDragoonRemakeVR_bHaptics_Provolver.zip](https://github.com/Astienth/Panzer_Dragoon_Remake_VR_bHaptics_Provolver/releases/download/1.0/PanzerDragoonRemakeVR_bHaptics_Provolver.zip)</br>
 2) Extract its content into the game root folder, the folder containing the "Panzer Dragoon Remake.exe".</br>
 This is what your game folder should look like: </br>
 ![Capture](https://github.com/user-attachments/assets/5713dce2-c75e-4606-a9a5-8e7c8fd54e06)
