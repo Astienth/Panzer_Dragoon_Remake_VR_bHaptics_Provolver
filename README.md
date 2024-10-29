@@ -8,10 +8,6 @@ Panzer Dragoon Remake VR mod, Provolver and bHaptics support. Vest and Arms are 
 
 Steam page of the game: [https://store.steampowered.com/app/1178880/Panzer_Dragoon_Remake/](https://store.steampowered.com/app/1178880/Panzer_Dragoon_Remake/)
 
-Here are videos of Farmertrue live play:</br>
-[https://www.twitch.tv/videos/2264677373](https://www.twitch.tv/videos/2264677373) </br>
-[https://www.youtube.com/watch?v=6LCPrm4Wrqw](https://www.youtube.com/watch?v=6LCPrm4Wrqw) </br>
-
 Two awesome VR content creators discord links: </br>
 Farmertrue: https://discord.gg/G8zZBTGuhP </br>
 Dteyn: https://discord.gg/Qt7GT69Pzx </br>
