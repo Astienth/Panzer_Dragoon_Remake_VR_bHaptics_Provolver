@@ -29,7 +29,13 @@ This is what your game folder should look like: </br>
 You can access this picture in the game root folder: "VRControls.jpg"</br></br>
 ![VRControls](https://github.com/user-attachments/assets/aefde64b-30a0-4100-b8e2-4674bd253e91)
 </br>
+# <b>Left Handed option</b></br>
+You can swap to left handed config in the file in BepInEx/config/com.astien.PanzerDragoonRemakeVR.cfg. This file will be created after the first launch of the mod.</br>
+Change the value leftHanded = false to lefHanded = true</br>
+Left and right triggers functions are then swapped and the gun will be in the left hand</br></br>
+![Capture](https://github.com/user-attachments/assets/92472783-e8bb-4d74-9bec-8a101bf63fe6)
 
+</br>
 # <b>Deactivate the VR mod</b></br>
 If you wanna deactivate the VR mod, you just need to rename the file <b>winhttp.dll</b> in the game root folder.</br>
 It can be named anything BUT "winhttp.dll".</br>
